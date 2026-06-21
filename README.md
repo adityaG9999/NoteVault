@@ -1,4 +1,4 @@
-# CloudNotes
+# NoteVault
 
 CloudNotes (formerly iNotebook) is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to securely store and manage their notes in the cloud. It features a sleek, modern dark-mode aesthetic with custom purple and indigo accents.
 
